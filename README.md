@@ -30,4 +30,5 @@ The objective was to create a dashboard that monitors KPIs(total sales, loyalty 
 This dashboard helps management to reduce discount dependency by up to 15% through smarter pricing, optimize promotions, improve inventory planning, boost customer loyalty and enhance store performance.
 
 ## 📷 Dashboard Overview
+![Dashboard Screenshots](screenshots/Grocerydashboard_overview.PNG)
 
